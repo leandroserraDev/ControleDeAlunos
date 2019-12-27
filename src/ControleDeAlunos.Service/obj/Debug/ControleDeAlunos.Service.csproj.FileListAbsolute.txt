@@ -1,0 +1,8 @@
+D:\ControleDeAlunos\src\ControleDeAlunos.Service\bin\Debug\ControleDeAlunos.Service.dll
+D:\ControleDeAlunos\src\ControleDeAlunos.Service\bin\Debug\ControleDeAlunos.Service.pdb
+D:\ControleDeAlunos\src\ControleDeAlunos.Service\bin\Debug\ControleDeAlunos.Domain.dll
+D:\ControleDeAlunos\src\ControleDeAlunos.Service\bin\Debug\ControleDeAlunos.Domain.pdb
+D:\ControleDeAlunos\src\ControleDeAlunos.Service\obj\Debug\ControleDeAlunos.Service.csprojAssemblyReference.cache
+D:\ControleDeAlunos\src\ControleDeAlunos.Service\obj\Debug\ControleDeAlunos.Service.csproj.CopyComplete
+D:\ControleDeAlunos\src\ControleDeAlunos.Service\obj\Debug\ControleDeAlunos.Service.dll
+D:\ControleDeAlunos\src\ControleDeAlunos.Service\obj\Debug\ControleDeAlunos.Service.pdb

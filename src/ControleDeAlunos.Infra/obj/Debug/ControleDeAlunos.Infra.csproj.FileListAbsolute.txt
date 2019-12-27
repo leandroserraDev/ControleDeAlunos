@@ -1,0 +1,15 @@
+D:\ControleDeAlunos\src\ControleDeAlunos.Infra\bin\Debug\ControleDeAlunos.Infra.dll.config
+D:\ControleDeAlunos\src\ControleDeAlunos.Infra\bin\Debug\ControleDeAlunos.Infra.dll
+D:\ControleDeAlunos\src\ControleDeAlunos.Infra\bin\Debug\ControleDeAlunos.Infra.pdb
+D:\ControleDeAlunos\src\ControleDeAlunos.Infra\bin\Debug\ControleDeAlunos.Domain.dll
+D:\ControleDeAlunos\src\ControleDeAlunos.Infra\bin\Debug\EntityFramework.dll
+D:\ControleDeAlunos\src\ControleDeAlunos.Infra\bin\Debug\EntityFramework.SqlServer.dll
+D:\ControleDeAlunos\src\ControleDeAlunos.Infra\bin\Debug\ControleDeAlunos.Domain.pdb
+D:\ControleDeAlunos\src\ControleDeAlunos.Infra\bin\Debug\EntityFramework.xml
+D:\ControleDeAlunos\src\ControleDeAlunos.Infra\bin\Debug\EntityFramework.SqlServer.xml
+D:\ControleDeAlunos\src\ControleDeAlunos.Infra\obj\Debug\ControleDeAlunos.Infra.csprojAssemblyReference.cache
+D:\ControleDeAlunos\src\ControleDeAlunos.Infra\obj\Debug\ControleDeAlunos.Infra.csproj.CopyComplete
+D:\ControleDeAlunos\src\ControleDeAlunos.Infra\obj\Debug\ControleDeAlunos.Infra.dll
+D:\ControleDeAlunos\src\ControleDeAlunos.Infra\obj\Debug\ControleDeAlunos.Infra.pdb
+D:\ControleDeAlunos\src\ControleDeAlunos.Infra\obj\Debug\ControleDeAlunos.Infra.Migrations.v0.resources
+D:\ControleDeAlunos\src\ControleDeAlunos.Infra\obj\Debug\ControleDeAlunos.Infra.csproj.GenerateResource.cache

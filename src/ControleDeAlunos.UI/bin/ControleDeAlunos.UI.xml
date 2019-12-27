@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ControleDeAlunos.UI</name>
+    </assembly>
+    <members>
+        <member name="M:ControleDeAlunos.UI.Controllers.AlunoController.GetAll">
+            <summary>
+            Retorna todos os Alunos cadastrados
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ControleDeAlunos.UI.Controllers.AlunoController.GetId(System.Int32)">
+            <summary>
+            Retorna um aluno por sua Identificação
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ControleDeAlunos.UI.Controllers.AlunoController.Post(ControleDeAlunos.UI.Models.AlunoCreateViewModel)">
+            <summary>
+            Cadastra um Aluno 
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ControleDeAlunos.UI.Controllers.AlunoController.Put(System.Int32,ControleDeAlunos.UI.Models.AlunoEditViewModel)">
+            <summary>
+            Editar um aluno 
+            </summary>
+            <param name="id"></param>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ControleDeAlunos.UI.Controllers.AlunoController.Delete(System.Int32)">
+            <summary>
+            Exclui um aluno po sua identificação
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ControleDeAlunos.UI.Controllers.AlunoController.CadastrarNaTurma(System.Int32,ControleDeAlunos.UI.Models.AlunoCadTurmaViewModel)">
+            <summary>
+            Cadastra um aluno na turma
+            </summary>
+            <param name="id"></param>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ControleDeAlunos.UI.Controllers.AlunoController.DeletarTurma(System.Int32)">
+            <summary>
+            Exclui um aluno da turma
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

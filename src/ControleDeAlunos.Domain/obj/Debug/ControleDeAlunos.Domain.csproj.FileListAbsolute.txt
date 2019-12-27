@@ -1,0 +1,5 @@
+D:\ControleDeAlunos\src\ControleDeAlunos.Domain\bin\Debug\ControleDeAlunos.Domain.dll
+D:\ControleDeAlunos\src\ControleDeAlunos.Domain\bin\Debug\ControleDeAlunos.Domain.pdb
+D:\ControleDeAlunos\src\ControleDeAlunos.Domain\obj\Debug\ControleDeAlunos.Domain.dll
+D:\ControleDeAlunos\src\ControleDeAlunos.Domain\obj\Debug\ControleDeAlunos.Domain.pdb
+D:\ControleDeAlunos\src\ControleDeAlunos.Domain\obj\Debug\ControleDeAlunos.Domain.csprojAssemblyReference.cache
